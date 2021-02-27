@@ -1,1 +1,1 @@
-Website Ecommerce dengan nama WestClean.Id dimana dia menawarkan jasa home service dan penjualan produk.
+is an e-commerce website. Where he sells car and motorcycle care products also serves several home service. To order home service, a scheduling will be made before the customer contacts the seller. Here I created it using vuejs, javascript, html, and css.
